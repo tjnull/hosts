@@ -1803,7 +1803,6 @@
 127.0.0.1 amobee.com
 
 # [amplitude.com]
-127.0.0.1 amplitude.com
 127.0.0.1 api.amplitude.com
 127.0.0.1 api2.amplitude.com
 127.0.0.1 cdn.amplitude.com
@@ -4172,12 +4171,6 @@
 
 # [ebz.io]
 127.0.0.1 ebz.io
-
-# [ecbsn.com]
-127.0.0.1 apituner.ecbsn.com
-127.0.0.1 api.engager.ecbsn.com
-127.0.0.1 events.engager.ecbsn.com
-127.0.0.1 ffconf.ecbsn.com
 
 # [ecorebates.com]
 127.0.0.1 static.ecorebates.com
@@ -10147,9 +10140,6 @@
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 track.tappx.com
 127.0.0.1 imp.track.tappx.com
-
-# [tapresearch.com]
-127.0.0.1 www.tapresearch.com
 
 # [taps.io]
 127.0.0.1 api.taps.io

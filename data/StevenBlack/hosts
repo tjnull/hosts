@@ -2653,7 +2653,6 @@
 0.0.0.0 ipv4.cws.conviva.com
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 live-media-aka.warnermediacdn.com
-0.0.0.0 medium.ngtv.io
 0.0.0.0 registry.api.cnn.io
 0.0.0.0 s.cdn.turner.com
 0.0.0.0 turnip.cdn.turner.com
@@ -2687,3 +2686,92 @@
 # Added December 17, 2023
 0.0.0.0 co.vaicore.site
 0.0.0.0 int.vaicore.site
+
+# Added December 28, 2023
+0.0.0.0 rtnl.bxcl.de
+
+# Added February 11, 2024
+0.0.0.0 product-cdn.liftoff-creatives.io
+0.0.0.0 preview.liftoff-creatives.io
+0.0.0.0 adexp.liftoff.io
+0.0.0.0 analytics.liftoff.io
+0.0.0.0 applovin-europe-rtb.liftoff.io
+0.0.0.0 appodeal-asia-rtb.liftoff.io
+0.0.0.0 appodeal-europe-rtb.liftoff.io
+0.0.0.0 appodeal-rtb.liftoff.io
+0.0.0.0 bigo-asia-rtb.liftoff.io
+0.0.0.0 bigo-europe-rtb.liftoff.io
+0.0.0.0 bigo-rtb.liftoff.io
+0.0.0.0 build-cdn.liftoff.io
+0.0.0.0 cdn.liftoff.io
+0.0.0.0 click4.liftoff.io
+0.0.0.0 click.liftoff.io
+0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-east.liftoff.io
+0.0.0.0 impression-europe.liftoff.io
+0.0.0.0 lb-rtb-europe.liftoff.io
+0.0.0.0 privacy.liftoff.io
+0.0.0.0 rtbnotify.liftoff.io
+0.0.0.0 biddingmax.apse.trk.rixserv.com
+0.0.0.0 et-l.w.inmobi.com
+0.0.0.0 i.l-new.inmobicdn.net
+0.0.0.0 cdn.liftoff-creatives.io
+0.0.0.0 statistik.changing-cities.org
+
+# Added March 10, 2024
+0.0.0.0 mcgthfrqrs95vdbzkhtchf5fc0g4.device.marketingcloudapis.com
+
+# Added March 12, 2024
+0.0.0.0 crpdt.livejasmin.com
+
+# Added March 21, 2024
+0.0.0.0 justtrack-logs.justtrack.io
+0.0.0.0 sdk-api.justtrack.io
+0.0.0.0 prod.adjoe-programmatic.com
+
+# Added March 28, 2024
+0.0.0.0 argo.svcmot.com
+
+# Added April 3, 2024
+0.0.0.0 canadapost.ca-help-h.top
+
+# Added April 8, 2024
+0.0.0.0 notepad.plus
+
+# Added April 13, 2024
+0.0.0.0 alertcibcsecuremobile.com
+
+# Added April 24, 2024
+0.0.0.0 sadostic.pl
+0.0.0.0 www.sadostic.pl
+
+# Added April 28, 2024
+0.0.0.0 ejuiashsateam.info
+0.0.0.0 www.ejuiashsateam.info
+
+# Added May 3, 2024
+0.0.0.0 twitterr.com
+0.0.0.0 ww25.twitterr.com
+
+# Added May 19, 2024
+0.0.0.0 urdxh.com
+
+# Added May 30, 2024
+0.0.0.0 logs.netflix.com
+
+# Added June 26, 2024
+0.0.0.0 mailsupport-24f7f1500ed129bc71f2ad9c06fe1e73.pages.dev
+
+# Added July 7, 2024
+0.0.0.0 aeventlog.beacon.qq.com
+0.0.0.0 astrategy.beacon.qq.com
+0.0.0.0 tdid.m.qq.com
+0.0.0.0 c.adsco.re
+0.0.0.0 4.adsco.re
+0.0.0.0 6.adsco.re
+0.0.0.0 frwrz661fasv.l4.adsco.re
+0.0.0.0 frwrz661fasv.n4.adsco.re
+0.0.0.0 frwrz661fasv.s4.adsco.re
+
+# Added July 27, 2024
+0.0.0.0 tracker.nitropay.com
